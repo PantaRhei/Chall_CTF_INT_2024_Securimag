@@ -31,3 +31,10 @@ The goal is to analyze the recorded signal and **extract the exchanged data**.
 
 An audio file modulated in **FM** is provided.
 After demodulation, the **flag** can be found directly in the audio content.
+
+
+
+# TODO
+Post solution:
+- [ ] Arduino communication
+- [ ] FM Audio
